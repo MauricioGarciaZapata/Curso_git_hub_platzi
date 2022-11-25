@@ -1,1 +1,3 @@
 Aprendiendo a manejar git y git hub con coursera ya que platzi se acabó
+
+Viendo si funcionan comandos
